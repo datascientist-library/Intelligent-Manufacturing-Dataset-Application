@@ -1,5 +1,4 @@
 # Intelligent-Manufacturing-Dataset-Analysis
-# Intelligent Manufacturing Dataset Analysis
 
 ## Overview
 
