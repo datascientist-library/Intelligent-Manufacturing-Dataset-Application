@@ -1,0 +1,6 @@
+streamlit
+pandas
+xlwings
+os
+tempfile
+datetime
