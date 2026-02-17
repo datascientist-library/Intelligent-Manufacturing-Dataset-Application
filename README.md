@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Intelligent Manufacturing Dataset Analysis** project is an interactive analytics application built using **Streamlit**. It is designed to analyze smart manufacturing data and provide actionable insights related to machine performance, efficiency, quality control, and predictive maintenance.
+The **Intelligent Manufacturing Dataset Application** project is an interactive analytics application built using **Streamlit**. It is designed to analyze smart manufacturing data and provide actionable insights related to machine performance, efficiency, quality control, and predictive maintenance.
 
 The application allows users to upload a manufacturing dataset, apply dynamic filters, visualize KPIs and trends, and export the complete analysis as a **PDF report**.
 
