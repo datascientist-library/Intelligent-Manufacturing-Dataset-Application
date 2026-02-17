@@ -1,4 +1,4 @@
-# Intelligent-Manufacturing-Dataset-Analysis
+# Intelligent-Manufacturing-Dataset-Application
 
 ## Overview
 
